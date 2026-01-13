@@ -37,7 +37,7 @@ First, you will install a few VS Code extensions that will make developing websi
 1. Open VS Code then click the Extensions button![Extensions button on VS Code](https://github.com/IM-WADD/Week1Practical1/assets/5978932/1899e4ec-a3f4-4ff2-b47c-f52b38f92979)
 2. Search for and install **HTMLHint.** Make sure the extension you install also has HTMLHint as the author name. This extension performs basic validation, like checking that open HTML tags are properly closed.
 3. Search for and install **W3C Web Validator** by Celian Riboulet. This extension performs deeper validation to check that your HTML is compliant with W3C standards.
-4. Search for and install **Live Preview** by Microsoft, which runs a local server to allow you to preview live changes to your website much more easily. This might not mean much to you yet, but it will be useful in the coming weeks!
+4. Search for and install **Live Preview** by Microsoft, which runs a local server to allow you to preview live changes to your website much more easily. This is the same extension used in first year IM coding modules.
 
 ### Exercise 2.2: Using VS Code
 Open the CatCatMoose project in VS Code. You can open files individually by double clicking on a specific file to open it in the IDE. Exactly how this works will depend on your operating system. However, it is strongly recommended that you open all your web projects as folders:
